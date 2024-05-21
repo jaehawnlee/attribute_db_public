@@ -1,0 +1,14 @@
+log
+테스트_company.db
+테스트_product.db
+테스트_reservation.db
+테스트_tags.db
+테스트_reservation_product.db
+1_ministro_server.code-workspace
+로컬_company.db
+로컬_customer.db
+로컬_reservation.db
+로컬_product.db
+로컬_tags.db
+attribute-db
+테스트_customer.db
